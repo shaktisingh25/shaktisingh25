@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  Python, MySQL, JavaScript, Business Analytics, More to Come
 - 💞️ I’m looking to collaborate on projects related but not limited to Python, AI/ML, Analytics
 - 📫 How to reach me: Email Me
-- 😄 Pronouns: Don't Care, "Live and Let Live, Respect Everyone!"
+- 😄 Motto: "Live and Let Live, Respect Everyone!"
 - ⚡ Fun fact: I am a NOOB! 
 
 <!---
