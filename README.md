@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaktisingh25
 - 👀 I’m interested in Coding, Learning New Things, AI/ML
-- 🌱 I’m currently learning  Python, MySQL, JavaScript, Business Analytics, More to Come
+- 🌱 I’m currently proefficient in Python, MySQL, AWS, Exploratory Data Analytics, More to Come
 - 💞️ I’m looking to collaborate on projects related but not limited to Python, AI/ML, Analytics
 - 📫 How to reach me: Email Me
 - 😄 Motto: "Live and Let Live, Respect Everyone!"
